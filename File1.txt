@@ -1,3 +1,5 @@
 Initial File 1 txt in master branch
 
 Additional changes to File 1
+
+More stashed changes
